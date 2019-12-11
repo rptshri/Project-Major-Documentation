@@ -1,0 +1,1 @@
+https://learn.sparkfun.com/tutorials/rfm69hcw-hookup-guide/the-antenna
