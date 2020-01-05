@@ -1,0 +1,6 @@
+water			850
+Air				0
+dry hand 		30
+wet hand		200
+dry soil		70
+wet soil 		894
